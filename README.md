@@ -1,6 +1,6 @@
 # bevy_template
 
-Welcome to the bevy_template repository! This project is designed to get you up and running with the Bevy game engine, providing a solid foundation for building your own games or simulations. Included in this template are configurations for VSCode, continuous integration (CI), Lefthook, `rstest` for testing, and coverage reporting, ensuring a robust development environment from the start.
+Welcome to the bevy_template repository! This project is designed to get you up and running with the [Bevy game engine](https://bevyengine.org/), providing a solid foundation for building your own games or simulations. Included in this template are configurations for VSCode, continuous integration (CI), Lefthook, `rstest` for testing, and coverage reporting, ensuring a robust development environment from the start.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Follow these steps to set up your development environment:
 
 ### Setup Bevy
 
-Ensure you have the latest version of Rust installed. Then, clone this repository and navigate into it:
+Ensure you have the latest version of [Rust](https://www.rust-lang.org/) installed. Then, clone this repository and navigate into it:
 
 ```sh
 git clone https://github.com/your_username/bevy_template.git
@@ -31,7 +31,7 @@ We use GitHub Actions for CI to ensure code quality and run tests automatically 
 
 ### Setup Lefthook
 
-Lefthook is configured for this project to run pre-commit hooks that include formatting and linting checks. Install Lefthook globally and set up the git hooks:
+[Lefthook](https://github.com/evilmartians/lefthook) is configured for this project to run pre-commit hooks that include formatting and linting checks. Install Lefthook globally and set up the git hooks:
 
 ### Setup `rstest`
 

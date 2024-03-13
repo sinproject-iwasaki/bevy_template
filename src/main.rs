@@ -1,6 +1,3 @@
-use bevy::prelude::*;
-
 fn main() {
-    App::new().run();
-    println!("Hello, world!");
+    bevy_clock::run();
 }

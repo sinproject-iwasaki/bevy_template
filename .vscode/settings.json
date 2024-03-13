@@ -1,0 +1,24 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "rust-lang.rust-analyzer",
+  "cSpell.words": [
+    "aarch",
+    "Cacher",
+    "clippy",
+    "minigrep",
+    "msvc",
+    "Noto",
+    "rngs",
+    "rstest",
+    "rustflags",
+    "rustfmt",
+    "Tetris",
+    "Validatable",
+    "Winit",
+    "Zshare",
+    "Zthreads"
+  ],
+  "editor.tabSize": 4,
+  "rust-analyzer.linkedProjects": ["./Cargo.toml"],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}

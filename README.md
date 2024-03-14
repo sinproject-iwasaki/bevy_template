@@ -1,6 +1,6 @@
 # bevy_template
 
-Welcome to the bevy_template repository! This project is designed to get you up and running with the [Bevy game engine](https://bevyengine.org/), providing a solid foundation for building your own games or simulations. Included in this template are configurations for VSCode, continuous integration (CI), Lefthook, `rstest` for testing, and coverage reporting, ensuring a robust development environment from the start.
+This is the world's first template that includes everything — [VSCode](https://code.visualstudio.com/) Recommended Extensions, [GitHub Actions](https://docs.github.com/en/actions) for CI, [Lefthook](https://github.com/evilmartians/lefthook), and [rstest](https://github.com/la10736/rstest) — for comprehensive [Rust](https://www.rust-lang.org/) and [Bevy engine](https://bevyengine.org/) projects.
 
 ## Getting Started
 

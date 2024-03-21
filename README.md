@@ -33,6 +33,10 @@ We use GitHub Actions for CI to ensure code quality and run tests automatically 
 
 [Lefthook](https://github.com/evilmartians/lefthook) is configured for this project to run pre-commit hooks that include formatting and linting checks. Install Lefthook globally and set up the git hooks:
 
+```sh
+lefthook install
+```
+
 ### Setup `rstest`
 
 `rstest` is used for concise and readable `tests`. See the tests directory for examples on how to write your tests using `rstest`.
